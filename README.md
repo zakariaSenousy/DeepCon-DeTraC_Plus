@@ -15,5 +15,5 @@ In this work, we used the dataset **CRC-VAL-HE-7K** from the Institute of Pathol
 ## Citation
 If you use our **DeepCon** model in your research, please cite our paper:
 
-Suhaib Chughtai, Zakaria Senousy, Ahmed Mahany, Nouh Sabri Elmitwally, Khalid N. Ismail, Mohamed Medhat Gaber, and Mohammed M. Abdelsamea, "DeepCon: Unleashing the Power of Divide and Conquer Deep Learning for Colorectal Cancer Classification."
+Suhaib Chughtai, Zakaria Senousy, Ahmed Mahany, Nouh Sabri Elmitwally, Khalid N. Ismail, Mohamed Medhat Gaber, and Mohammed M. Abdelsamea, **"DeepCon: Unleashing the Power of Divide and Conquer Deep Learning for Colorectal Cancer Classification."**
 
