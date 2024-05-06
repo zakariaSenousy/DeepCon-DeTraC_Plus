@@ -8,8 +8,7 @@ In this work, we used the dataset **CRC-VAL-HE-7K** from the Institute of Pathol
 
 
 
-### Dataset's paper link:
-[Multi-class texture analysis in colorectal cancer histology](https://www.nature.com/articles/srep27988)
+### Dataset's paper link: [Multi-class texture analysis in colorectal cancer histology](https://www.nature.com/articles/srep27988)
 
 
 ## Citation
